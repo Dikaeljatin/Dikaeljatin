@@ -1,5 +1,14 @@
-# 💫 About Me:
-Hi, i'm M Agradika Ridhal Eljatin ✨<br>Informatics student at Universitas Syiah Kuala and a passionate Software Engineer who loves building modern, interactive, and user-friendly web applications.<br><br>💻 Focused on web development and software engineering<br>🚀 Interested in frontend development, UI/UX, and data visualization<br>🌱 Currently learning full-stack development and scalable system architecture<br>📚 Always exploring new technologies and improving problem-solving skills<br>⚡ Passionate about creating impactful digital solutions through clean and efficient code
+# 👋 Hi, I'm M Agradika Ridhal Eljatin
+
+### Front-End Developer | UI/UX Designer | Crafting beautiful digital experiences
+
+---
+
+Front-End Developer and UI/UX Designer passionate about creating modern, responsive, and intuitive web applications.
+
+Currently pursuing a Bachelor's degree in Informatics at Universitas Syiah Kuala while continuously improving my skills in web development, user interface design, and user experience research.
+
+📍 Banda Aceh, Indonesia
 
 
 # 💻 Tech Stack:
