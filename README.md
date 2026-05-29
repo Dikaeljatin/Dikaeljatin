@@ -10,6 +10,8 @@ Currently pursuing a Bachelor's degree in Informatics at Universitas Syiah Kuala
 
 📍 Banda Aceh, Indonesia
 
+---
+
 ## 🚀 Skills & Focus
 
 💻 Front-End Development — Building responsive and accessible web interfaces
