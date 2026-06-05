@@ -8,27 +8,6 @@
 
 <p align="left">Front-End Developer and UI/UX Designer passionate about creating modern, responsive, and intuitive web applications.<br><br>Currently pursuing a Bachelor's degree in Informatics at Universitas Syiah Kuala while continuously improving my skills in web development, user interface design, and user experience research.<br><br>📍 Banda Aceh, Indonesia</p>
 
-###
-
-<p align="left"></p>
-
-###
-
-<h2 align="left">🚀 Focus</h2>
-
-###
-
-<p align="left">💻 Front-End Development — Building responsive and accessible web interfaces<br><br>🎨 UI/UX Design — Designing intuitive and user-centered digital experiences<br><br>📱 Responsive Design — Creating seamless experiences across devices<br><br>🧩 Problem Solving — Turning ideas into functional and impactful solutions<br><br>📚 Continuous Learning — Exploring new technologies, frameworks, and design trends<br><br>⚡ Team Collaboration — Working effectively in multidisciplinary teams</p>
-
-###
-
-<p align="left"></p>
-
-###
-
-<h2 align="left">Skills 💻</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
