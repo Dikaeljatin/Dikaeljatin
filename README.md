@@ -1,39 +1,69 @@
-# 👋 Hi, I'm M Agradika Ridhal Eljatin
+<h1 align="left">Hi, I'm M Agradika Ridhal Eljatin 👋</h1>
 
-### Front-End Developer | UI/UX Designer | Crafting beautiful digital experiences
+###
 
----
+<h3 align="left">Front-End Developer | UI/UX Designer</h3>
 
-Front-End Developer and UI/UX Designer passionate about creating modern, responsive, and intuitive web applications.
+###
 
-Currently pursuing a Bachelor's degree in Informatics at Universitas Syiah Kuala while continuously improving my skills in web development, user interface design, and user experience research.
+<p align="left">Front-End Developer and UI/UX Designer passionate about creating modern, responsive, and intuitive web applications.<br><br>Currently pursuing a Bachelor's degree in Informatics at Universitas Syiah Kuala while continuously improving my skills in web development, user interface design, and user experience research.<br><br>📍 Banda Aceh, Indonesia</p>
 
-📍 Banda Aceh, Indonesia
+###
 
----
+<p align="left"></p>
 
-## 🚀 Skills & Focus
+###
 
-💻 Front-End Development — Building responsive and accessible web interfaces
+<h2 align="left">🚀 Focus</h2>
 
-🎨 UI/UX Design — Designing intuitive and user-centered digital experiences
+###
 
-📱 Responsive Design — Creating seamless experiences across devices
+<p align="left">💻 Front-End Development — Building responsive and accessible web interfaces<br><br>🎨 UI/UX Design — Designing intuitive and user-centered digital experiences<br><br>📱 Responsive Design — Creating seamless experiences across devices<br><br>🧩 Problem Solving — Turning ideas into functional and impactful solutions<br><br>📚 Continuous Learning — Exploring new technologies, frameworks, and design trends<br><br>⚡ Team Collaboration — Working effectively in multidisciplinary teams</p>
 
-🧩 Problem Solving — Turning ideas into functional and impactful solutions
+###
 
-📚 Continuous Learning — Exploring new technologies, frameworks, and design trends
+<p align="left"></p>
 
-⚡ Team Collaboration — Working effectively in multidisciplinary teams
+###
 
----
+<h2 align="left">Skills 💻</h2>
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+</div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Dikaeljatin&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Dikaeljatin&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Dikaeljatin&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dikaeljatin/Dikaeljatin/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dikaeljatin/Dikaeljatin/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Dikaeljatin/Dikaeljatin/pacman-output/pacman-contribution-graph.svg">
+</picture>
+
+###
